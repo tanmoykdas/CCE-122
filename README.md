@@ -1,4 +1,4 @@
-# 🐍 CCE-122 – OOP Practice & Snake Game Project (Java)
+# 🐍 OOP Practice & Snake Game Project (Java)
 
 Welcome to the **CCE-122** repository! Here, you'll find my journey practicing Object-Oriented Programming (OOP) concepts in Java, along with my project: a classic Snake game.
 
